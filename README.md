@@ -20,8 +20,6 @@ To run the application you need to run the file names **start.js**.\
 **OBS** you should not use both of the following commands. 
 ```
 > node start.js
-
-> npm start
 ```
 You could also import the start file if you want to start it from another file.
 ```
